@@ -5,4 +5,4 @@
 ![pacman imgage](/img/01.png)
 ![pacman imgage](/img/02.png)
 > [!NOTE]
-> by Henrr0ry
+> You can download it on [Itch.io](https://henrr0ry.itch.io/pacman)
