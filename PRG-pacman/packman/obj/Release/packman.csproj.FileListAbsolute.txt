@@ -1,0 +1,10 @@
+C:\Users\Henrr0ry\Documents\PRG-packman\packman\bin\Release\packman.exe.config
+C:\Users\Henrr0ry\Documents\PRG-packman\packman\bin\Release\packman.exe
+C:\Users\Henrr0ry\Documents\PRG-packman\packman\bin\Release\packman.pdb
+C:\Users\Henrr0ry\Documents\PRG-packman\packman\obj\Release\packman.csproj.AssemblyReference.cache
+C:\Users\Henrr0ry\Documents\PRG-packman\packman\obj\Release\packman.Form1.resources
+C:\Users\Henrr0ry\Documents\PRG-packman\packman\obj\Release\packman.Properties.Resources.resources
+C:\Users\Henrr0ry\Documents\PRG-packman\packman\obj\Release\packman.csproj.GenerateResource.cache
+C:\Users\Henrr0ry\Documents\PRG-packman\packman\obj\Release\packman.csproj.CoreCompileInputs.cache
+C:\Users\Henrr0ry\Documents\PRG-packman\packman\obj\Release\packman.exe
+C:\Users\Henrr0ry\Documents\PRG-packman\packman\obj\Release\packman.pdb
